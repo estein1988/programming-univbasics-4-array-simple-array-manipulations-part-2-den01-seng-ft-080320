@@ -1,5 +1,5 @@
-def using_concat(one, two)
-  one.concat.two
+def using_concat(array, two)
+  array.concat.two
 end
 
 def using_insert(array, element)
@@ -13,3 +13,4 @@ end
 def using_flatten(array)
   array.flatten 
 end
+
