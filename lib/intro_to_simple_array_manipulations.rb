@@ -1,4 +1,6 @@
 def using_concat(array, two)
+  array = []
+  two = []
   array.concat.two
 end
 
@@ -17,3 +19,6 @@ end
 def using_delete(array, string)
   array.delete(string)
 end
+
+def using_delete_at(array, integer)
+  
